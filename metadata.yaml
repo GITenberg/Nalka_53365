@@ -1,5 +1,5 @@
 _repo: Nalka_53365
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Sult. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '44571'
     url: http://www.gutenberg.org/2009/agents/44571
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamsun, Knut
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2376
     wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53365#Nalka
 gutenberg_issued: '2016-10-25'
 gutenberg_type: Text
 identifiers:
